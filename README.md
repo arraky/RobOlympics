@@ -75,6 +75,7 @@ Wir können stolz sagen, dass wir es versucht und auch geschafft haben.
 Wir haben anfangs einen Lauf ohne Rampe gemacht um einen sicheren zu haben. Uns ist aber sofort aufgefallen, dass wir über die Rampe müssen um zu gewinnen. Nach langem tüfteln und ausprobieren haben wir dann eine Zeit von **15.94** geschafft. Damit haben wir die bisherige Rekordzeit um 2.22 Sekunden unterboten.  
 
 https://github.com/arraky/RobOlympics/assets/76037364/3dd83696-8b8a-4f17-aed5-f8b1f5d29c0b  
+
 Falls das Video nicht korrekt angezeigt wird, klicken Sie [hier](https://github.com/arraky/RobOlympics/blob/main/README.md) um die Onlineversion anzusehen.
 
 ### Vorgehensweise und Projekt insgesamt
