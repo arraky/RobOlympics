@@ -63,6 +63,7 @@ Ist man mit dem Resultat nicht zufrieden, wenn der Roboter beispielsweise zu lan
 Wenn man nicht gut genug war, soll man es trotzdem probieren. Man sollte neue Sachen probieren und man sollte das was man schon hat perfektionieren. Und wenn es dann immer noch nicht funktioniert hat kann man dann sagen, dass man es zumindest bis auf den letzten Drücker probiert hat.  
 Wir können stolz sagen, dass wir es versucht und auch geschafft haben.  
 Wir haben anfangs einen Lauf ohne Rampe gemacht um einen sicheren zu haben. Uns ist aber sofort aufgefallen, dass wir über die Rampe müssen um zu gewinnen. Nach langem tüfteln und ausprobieren haben wir dann eine Zeit von **15.94** geschafft. Damit haben wir die bisherige Rekordzeit um 2.22 Sekunden unterboten. 
+![2. Lauf](/Images/siegeslauf.movw)
 ### Vorgehensweise und Projekt insgesamt
 Code for RobOlympics bot
 ![PodestFoto](/Images/podest.png)
