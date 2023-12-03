@@ -79,7 +79,7 @@ https://github.com/arraky/RobOlympics/assets/76037364/3dd83696-8b8a-4f17-aed5-f8
 Das Video wird in VSCode nur als Link angezeigt. Falls das Video nicht korrekt angezeigt wird, klicken Sie [hier](https://github.com/arraky/RobOlympics/blob/main/README.md) um die Onlineversion anzusehen.
 
 ### Vorgehensweise und Projekt insgesamt
-Zusammengefass war es eine tolle Erfahrung. Verständlicherweise ist es toll erster zu werden.  
+Zusammengefass war es eine tolle Erfahrung. Verständlicherweise ist es toll erster zu werden. Danke an Herr Hofer und Herr Scheidegger, die uns begleitet und uns das ermöglicht haben. Für weitere Informationen klicken Sie [hier](https://www.youtube.com/watch?v=dQw4w9WgXcQ).  
 
 ![PodestFoto](/Images/podest.png)  
 ### Team GBSL-ꓶSꓭꓨ#1  
