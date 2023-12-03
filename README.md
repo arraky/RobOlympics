@@ -76,8 +76,10 @@ Wir haben anfangs einen Lauf ohne Rampe gemacht um einen sicheren zu haben. Uns 
 
 https://github.com/arraky/RobOlympics/assets/76037364/3dd83696-8b8a-4f17-aed5-f8b1f5d29c0b  
 
-Falls das Video nicht korrekt angezeigt wird, klicken Sie [hier](https://github.com/arraky/RobOlympics/blob/main/README.md) um die Onlineversion anzusehen.
+Das Video wird in VSCode nur als Link angezeigt. Falls das Video nicht korrekt angezeigt wird, klicken Sie [hier](https://github.com/arraky/RobOlympics/blob/main/README.md) um die Onlineversion anzusehen.
 
 ### Vorgehensweise und Projekt insgesamt
-Zusammengefass war es eine tolle Erfahrung.   
+Zusammengefass war es eine tolle Erfahrung. Verständlicherweise ist es toll erster zu werden.  
+
 ![PodestFoto](/Images/podest.png)  
+### Team GBSL-ꓶSꓭꓨ#1  
