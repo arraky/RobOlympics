@@ -2,9 +2,9 @@
 ## Organisation und Prozess
 ### Ziel
 Ziel des Linienfolgers ist es, einer schwarzen Linie zu folgen, bis er zum Ziel kommt. Die Strecke wird am Morgen des Wettkampfs festgelegt und besteht aus folgenden Elementen:
-![Streckenelemente](/Images/Streckenelemente.png)  
+![Streckenelemente](Images/Streckenelemente.png)  
 Die Strecke am Wettkampf sah dann so aus:
-![Strecke](/Images/strecke.jpg)  
+![Strecke](Images/strecke.jpg)  
 Wie man sieht, gibt es auch eine Rampe, welche als Abkürzung dient.
 ### Regeln
 1. Der Roboter darf die maximale Grösse von 20 cm x 25 cm x 25 cm (B x L x H) nie überschreiten.
@@ -35,20 +35,20 @@ Im Code müssen wir das Verhalten für jede mögliche Sensorkombination einprogr
 - 1111 -> stehenbleiben, 90° rechts (T-Kreuzung von unten, nicht über Rampe)  
 
 Wird bei einem Sensorzustand ein Verhalten festgelegt, wird es so lange fortgeführt, bis es durch einen anderen Sensorzustand geändert wird.  
-![Zustandsdiagramm](/Images/Zustandsdiagramm.png)  
+![Zustandsdiagramm](Images/Zustandsdiagramm.png)  
   
 Organisiert haben wir uns über Planka:  
-![plankaPrtSc](/Images/planka.png)  
+![plankaPrtSc](Images/planka.png)  
 Obwohl wir uns bis zum Ende darum bemüht haben, ist trotzdem nichts aus dem Raketenantrieb geworden :( .
 
 ## Umsetzung
 ### Prototyp
-![Prototyp Front](/Images/Prototyp-Front.jpg)  
-![Prototyp Seite](/Images/Prototyp-Seite.jpg)  
+![Prototyp Front](Images/Prototyp-Front.jpg)  
+![Prototyp Seite](Images/Prototyp-Seite.jpg)  
 Sehr simpel haben wir einen breiten Radstand, beide Räder werden mittels EV3 L Motoren angesteuert. Vorne rollt der Prototyp auf einer Metallkugel; dahinter befinden sich vier EV3 Lichtsensoren. Diese stellen fest, ob sich der Linienfolger noch auf der Linie befindet. Der Code ist dann dazu da, die Messungen richtig zu interpretieren und der Linie weiter zu folgen.
 
 ### Wettkampfversion
-![Wettkampfversion](/Images/wettkampfversion.jpg)  
+![Wettkampfversion](Images/wettkampfversion.jpg)  
 Die Wettkampfversion ist kompakter als der Prototyp. Was sich am meisten verändert hat ist:
 - Reifen: Wir haben während dem Wettkampf grössere Reifen montiert, um eine bessere Zeit zu erreichen
 - Sensorplatzierung: Beim Prototypen hatten wir zwei mittlere Sensoren und zwei äussere Sensoren. Bei der Wettkampfversion haben wir alle Sensoren so nahe aneinander wie nur möglich auf eine Reihe gebaut. 
@@ -80,5 +80,5 @@ Das Video wird in VSCode nur als Link angezeigt. Falls das Video nicht korrekt a
 ### Vorgehensweise und Projekt insgesamt
 Zusammengefasst war es eine tolle Erfahrung. Verständlicherweise ist es toll erster zu werden. Danke an Herr Hofer und Herr Scheidegger, die uns begleitet und uns das ermöglicht haben. Für weitere Informationen klicken Sie [hier](https://www.youtube.com/watch?v=dQw4w9WgXcQ).  
 
-![PodestFoto](/Images/podest.png)  
+![PodestFoto](Images/podest.png)  
 ### Team GBSL-ꓶSꓭꓨ#1  
